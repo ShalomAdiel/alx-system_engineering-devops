@@ -1,0 +1,7 @@
+
+#!/bin/bash
+
+echo "Hello World"
+
+./0-hello_world | cat -e
+
